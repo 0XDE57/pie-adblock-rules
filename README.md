@@ -1,3 +1,35 @@
+DO NOT USE PIE
+-
+
+Just use uBlock Origin. It works the best by far and even Pie agress sinces they were "inspired" by it?
+
+* https://www.theregister.com/2025/01/04/pie_adblock_ublock_origin_code/
+* https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/
+
+It wasn't till AFTER called out by this reddit post that the repo magically showed up.
+
+
+
+DO NOT USE HONEY
+-
+Use a search engine to find out why...
+
+Pie is slop from the same group who run the Honeyscam extension, Payal. None of these entities are trustworthy.
+
+above is my notes. below is original readme:
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+
+
 ## PIE Adblock Rules and Scriptlet Reader
 
 This repo is an open-source repository of PIE's adblock rules and scriptlets reader. We are constantly adding new rules as our users report ads and hope to create a stronger adblocking community together. Our filters are constantly being updated by our team here in the US!
