@@ -19,7 +19,7 @@ Pie is slop from the same group who run the Honey scam extension, Payal. None of
 
 DO NOT USE PAYPAL
 -
-Paypal has a history of screwing people over. This is well documented here (and in subsequent linked vidoes in the drescrtion):
+Paypal has a history of screwing people over. This is well documented here (and in subsequent linked videos in the description):
 * https://www.youtube.com/watch?v=izuM2e7B8Mo
 
 above is my notes. below is original readme:
