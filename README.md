@@ -9,13 +9,20 @@ Just use uBlock Origin. It works the best by far and even Pie agrees since they 
 It wasn't till AFTER called out by this reddit post that the repo magically showed up.
 
 
+  
+Pie is slop from the same group who run the Honey scam extension, Payal. 
+
+* https://www.youtube.com/watch?v=VTxnM3J0I0k
+  
+None of these entities are trustworthy.
+
+
 DO NOT USE HONEY
 -
 
 * https://www.youtube.com/watch?v=4H4sScCB1cY
 * https://www.youtube.com/watch?v=ItiXffyTgQg
 
-Pie is slop from the same group who run the Honey scam extension, Payal. None of these entities are trustworthy.
 
 DO NOT USE PAYPAL
 -
