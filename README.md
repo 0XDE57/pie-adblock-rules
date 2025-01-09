@@ -19,7 +19,7 @@ None of these entities are trustworthy.
 
 DO NOT USE HONEY
 -
-
+* https://www.youtube.com/watch?v=vc4yL3YTwWk
 * https://www.youtube.com/watch?v=4H4sScCB1cY
 * https://www.youtube.com/watch?v=ItiXffyTgQg
 
@@ -28,6 +28,7 @@ DO NOT USE PAYPAL
 -
 Paypal has a history of screwing people over. This is well documented here (and in subsequent linked videos in the description):
 * https://www.youtube.com/watch?v=izuM2e7B8Mo
+* https://www.youtube.com/watch?v=VAqzPw1CO_8
 
 above is my notes. below is original readme:
 
