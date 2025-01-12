@@ -8,6 +8,7 @@ Just use uBlock Origin. It works the best by far and even Pie agrees since they 
 
 It wasn't till AFTER called out by this reddit post that the repo magically showed up.
 
+* https://www.youtube.com/watch?v=yJa_3o3RjPY
 
   
 Pie is slop from the same group who run the Honey scam extension, Payal. 
