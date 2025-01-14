@@ -24,7 +24,7 @@ DO NOT USE HONEY
 * https://www.youtube.com/watch?v=4H4sScCB1cY
 * https://www.youtube.com/watch?v=ItiXffyTgQg
 * https://www.youtube.com/watch?v=N9FhM8DMHCM
-
+* https://wiki.rossmanngroup.com/index.php/Honey_Browser_Plugin
 
 DO NOT USE PAYPAL
 -
