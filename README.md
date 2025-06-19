@@ -20,18 +20,28 @@ None of these entities are trustworthy.
 
 DO NOT USE HONEY
 -
-* https://www.youtube.com/watch?v=vc4yL3YTwWk
-* https://www.youtube.com/watch?v=4H4sScCB1cY
-* https://www.youtube.com/watch?v=ItiXffyTgQg
-* https://www.youtube.com/watch?v=N9FhM8DMHCM
-* https://www.youtube.com/watch?v=IKbFBgNuEOU
-* https://wiki.rossmanngroup.com/index.php/Honey_Browser_Plugin
+https://consumerrights.wiki/index.php/Honey_Browser_Plugin
+
+* MegaLag - Exposing the Honey Influencer Scam
+  * https://www.youtube.com/watch?v=vc4yL3YTwWk 
+* LegalEagle - I'm Suing Honey
+  *  https://www.youtube.com/watch?v=4H4sScCB1cY
+* AttorneyTom - 5 Things People Got Wrong About The Honey Lawsuit
+  * https://www.youtube.com/watch?v=ItiXffyTgQg
+* Lawful Masses with Leonard French - GamersNexus joins the Honey Lawsuit, Capital One also a Defendant (Wendover v. PayPal)
+  * https://www.youtube.com/watch?v=N9FhM8DMHCM
+* Gamers Nexus - Investigation: GamersNexus Files New Lawsuit Against PayPal & Honey
+  * https://www.youtube.com/watch?v=IKbFBgNuEOU
+* GNCA - GamersNexus Consumer Advocacy - $120 Billion Bank Subpoenas GamersNexus | PayPal Honey Lawsuit Update, ft. Capital One
+  * https://www.youtube.com/watch?v=idIWS-mHKQk
 
 DO NOT USE PAYPAL
 -
 Paypal has a history of screwing people over. This is well documented here (and in subsequent linked videos in the description):
-* https://www.youtube.com/watch?v=izuM2e7B8Mo
-* https://www.youtube.com/watch?v=VAqzPw1CO_8
+* Louis Rossmann - Is PayPal fining people for misinformation? Let's investigate!
+  * https://www.youtube.com/watch?v=izuM2e7B8Mo
+* Wall Street Millennial - PayPal Is In Crisis
+  * https://www.youtube.com/watch?v=VAqzPw1CO_8
 
 above is my notes. below is original readme:
 
