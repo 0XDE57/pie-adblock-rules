@@ -7,13 +7,13 @@ Just use uBlock Origin. It works the best by far and even Pie agrees since they 
 * https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/
 
 It wasn't till AFTER called out by this reddit post that the repo magically showed up.
-
-* https://www.youtube.com/watch?v=yJa_3o3RjPY
+* Brodie Robertson - Pie Adblock (Honey Developer) Openly Ignoring The GPL 
+  * https://www.youtube.com/watch?v=yJa_3o3RjPY
 
   
 Pie is slop from the same group who run the Honey scam extension, Payal. 
-
-* https://www.youtube.com/watch?v=VTxnM3J0I0k
+* Upper Echelon - Exposing the "PIE" Influencer Disaster - (Same Developers as HONEY)
+  * https://www.youtube.com/watch?v=VTxnM3J0I0k
   
 None of these entities are trustworthy.
 
